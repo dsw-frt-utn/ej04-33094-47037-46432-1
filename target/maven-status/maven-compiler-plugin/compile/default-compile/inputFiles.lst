@@ -1,11 +1,13 @@
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\app\Program.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\data\Persistencia.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\domain\Responsable.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\domain\Sucursal.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\domain\Vehiculo.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\domain\VehiculoCombustible.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\domain\VehiculoElectrico.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\domain\VehiculoTipo.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\views\Controlador.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\views\ListarVehiculosView.java
-E:\UTN_2026\DSW2026\Ej04\ej04-33094-47037-46432-1\src\main\java\views\VehiculoViewModel.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\app\Program.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\data\Persistencia.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\domain\Marca.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\domain\Responsable.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\domain\Sucursal.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\domain\Vehiculo.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\domain\VehiculoCombustible.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\domain\VehiculoElectrico.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\domain\VehiculoTipo.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\views\Controlador.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\views\ListarVehiculosView.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\views\RegistrarVehiculoView.java
+C:\Users\crist\Desktop\facultad2026\Desarrollo de Software\Unidad 1\DSW2026_EJ04\ej04-33094-47037-46432-1\src\main\java\views\VehiculoViewModel.java

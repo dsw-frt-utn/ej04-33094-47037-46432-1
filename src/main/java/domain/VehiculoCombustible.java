@@ -6,7 +6,7 @@ public class VehiculoCombustible extends Vehiculo {
     private double kilometrosPorLitro;
     private double litrosExtra;
 
-    public VehiculoCombustible(String patente, String marca, String modelo, int anio, double capacidadCarga,
+    public VehiculoCombustible(String patente, Marca marca, String modelo, int anio, double capacidadCarga,
                                Sucursal sucursal, double kilometrosPorLitro, double litrosExtra) {
         super(VehiculoTipo.COMBUSTIBLE, patente, marca, modelo, anio, capacidadCarga, sucursal);
         this.kilometrosPorLitro = kilometrosPorLitro;
@@ -23,10 +23,11 @@ public class VehiculoCombustible extends Vehiculo {
 
     @Override
     public double calcularConsumo(double kilometros) {
-        double total = (kilometros / kilometrosPorLitro);
-        if((2026 - anio) > 5){
+        double total = (kilometros / kilometrosPorLitro );
+        if((2026 - anio) > 5 ){
             total += (kilometros/15) * litrosExtra;
         }
         return total;
     }
 }
+
